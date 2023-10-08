@@ -12,9 +12,7 @@ Below is the key environment under which the code was developed, not necessarily
 3. Cuda 11.8
 
 
-
-
-#Citation
+# Citation
 
 If you find this code to be useful for your research, please consider citing.
 
