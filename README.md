@@ -2,7 +2,7 @@
 
 Code for the paper Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples. Paper here: <https://arxiv.org/abs/2305.09241>
 
-![overview.png](https://note.youdao.com/yws/res/f/WEBRESOURCE20feeb441b872706abbe951839a6227f)
+![overview.png](https://github.com/jiangw-0/LE_JCDP/blob/main/imgs/overview.png)
 
 # Dependencies
 
