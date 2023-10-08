@@ -1,6 +1,6 @@
 # Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples
 
-Code for the paper [Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples](https://arxiv.org/abs/2305.09241)
+Code for the paper ["Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples"](https://arxiv.org/abs/2305.09241), ACM MM 2023.
 
 ![overview.png](https://github.com/jiangw-0/LE_JCDP/blob/main/imgs/overview.png)
 
