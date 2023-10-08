@@ -13,7 +13,9 @@ Below is the key environment under which the code was developed, not necessarily
 3.  Cuda 11.8
 
 
-# 
+# Warning
+
+The code has not been exhaustively tested. You need to run it at your own risk. The author will try to actively maintain it and fix reported bugs but this can be delayed.
 
 
 # Citation(Bibtex)
