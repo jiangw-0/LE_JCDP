@@ -1,6 +1,6 @@
 # Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples
 
-This repo contains the official PyTorch implementation of ["Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples"](https://arxiv.org/abs/2305.09241) (ACM MM 2023), by Wan Jiang*, [Yunfeng Diao]*(http://faculty.hfut.edu.cn/diaoyunfeng/en/index.htm), [He Wang](https://drhewang.com/), Jianxin Sun, Meng Wang and Richang Hong (*co-primary authors).
+This repo contains the official PyTorch implementation of ["Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples"](https://arxiv.org/abs/2305.09241) (ACM MM 2023), by Wan Jiang*, [Yunfeng Diao*](http://faculty.hfut.edu.cn/diaoyunfeng/en/index.htm), [He Wang](https://drhewang.com/), Jianxin Sun, Meng Wang and Richang Hong (*co-primary authors).
 
 ![overview.png](https://github.com/jiangw-0/LE_JCDP/blob/main/imgs/overview.png)
 
