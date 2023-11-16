@@ -67,17 +67,7 @@ class Empirical_cond():
         model_name = 'ema_cifar10'
         diffusion = Diffusion.from_pretrained(model_name, self.args.dpm, device=self.config.device.diff_device)
 
-        df_columns = ["Epoch", "nData", "att_time", "pur_time", "clf_time", \
-                      "std_acc", "att_acc", "pur_acc_l", "pur_acc_s", "pur_acc_o", \
-                      "pur_acc_list_l", "pur_acc_list_s", "pur_acc_list_o", "count_att", "count_diff"]
-        if self.config.purification.purify_natural:
-            df_columns.append("nat_pur_acc_l")
-            df_columns.append("nat_pur_acc_s")
-            df_columns.append("nat_pur_acc_o")
-            df_columns.append("nat_pur_acc_list_l")
-            df_columns.append("nat_pur_acc_list_s")
-            df_columns.append("nat_pur_acc_list_o")
-        df = pd.DataFrame(columns=df_columns)
+        
 
         if self.config.purification.guide_mode == 'LPIPS' or self.config.purification.guide_mode2 == 'LPIPS' :
             loss_fn = lpips.LPIPS(net='alex')
