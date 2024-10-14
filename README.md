@@ -35,7 +35,7 @@ We have released checkpoints for the main models in the paper.
 Here are the download links for each model checkpoint:
 
 *   CIFAR-10: [fine-tuning ](https://drive.google.com/drive/folders/1_h76h7sVIoxyGi2OCuF7eL7-KWYMq1gq) | [from scratch](https://drive.google.com/drive/folders/1b52GoGGyEQHHec2ThOQw196_ehpSSxD9)
-*   CIFAR-100: [fine-tuning ](https://drive.google.com/drive/folders/1F6tBw2F2Ddz_nHnfmNIzm69_IvH9azRv) | [from scratch](https://drive.google.com/drive/folders/1QWfu0rG4JMsdLDvCk3UMxP7yyrGd3tvL)
+*   CIFAR-100: [fine-tuning ](https://drive.google.com/drive/folders/1F6tBw2F2Ddz_nHnfmNIzm69_IvH9azRv) | [from scratch](https://drive.google.com/file/d/1C-z004BNC536dDcxuVNg_1_tkm6ODl55/view?usp=sharing)
 
 Download the relevant model checkpoints into a folder called `models/`.
 You can train other types of diffusion models as well, which works here as well.
