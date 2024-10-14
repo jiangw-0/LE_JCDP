@@ -34,8 +34,8 @@ Here are the download links for our generated the Unlearnable Examples following
 We have released checkpoints for the main models in the paper.
 Here are the download links for each model checkpoint:
 
-*   [fine-tuning ](https://drive.google.com/drive/folders/1_h76h7sVIoxyGi2OCuF7eL7-KWYMq1gq)
-*   [from scratch](https://drive.google.com/drive/folders/1b52GoGGyEQHHec2ThOQw196_ehpSSxD9)
+*   CIFAR-10 [fine-tuning ](https://drive.google.com/drive/folders/1_h76h7sVIoxyGi2OCuF7eL7-KWYMq1gq)|[from scratch](https://drive.google.com/drive/folders/1b52GoGGyEQHHec2ThOQw196_ehpSSxD9)
+*   CIFAR-100 [fine-tuning ](https://drive.google.com/drive/folders/1F6tBw2F2Ddz_nHnfmNIzm69_IvH9azRv)|[from scratch](https://drive.google.com/drive/folders/1QWfu0rG4JMsdLDvCk3UMxP7yyrGd3tvL)
 
 Download the relevant model checkpoints into a folder called `models/`.
 You can train other types of diffusion models as well, which works here as well.
