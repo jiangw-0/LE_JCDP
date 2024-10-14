@@ -2,7 +2,7 @@
 
 This repo contains the official PyTorch implementation of ["Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples"](https://arxiv.org/abs/2305.09241) (ACM MM 2023), by Wan Jiang*, [Yunfeng Diao*](http://faculty.hfut.edu.cn/diaoyunfeng/en/index.htm), [He Wang](https://drhewang.com/), Jianxin Sun, Meng Wang and Richang Hong (*co-primary authors).
 
-![overview.png](https://file.meding.vip/f/DmZpHm/overview.png)
+![overview.png](https://file.meding.vip/f/v7l6CG/overview.png)
 
 # Dependencies
 
